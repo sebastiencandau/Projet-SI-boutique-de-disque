@@ -1,5 +1,3 @@
-<!--> Ceci doit être le fichier README.md à la racine de votre dépôt <-->
-
 # Informations générales
 
 ## Equipe
